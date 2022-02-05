@@ -28,4 +28,4 @@ Hi everyone. I'm Artem Petrov. I specialize in data analysis and machine learnin
 
 
 <!---Пример кода-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi + everyone. + I'm + Artem + Petrov. + I + specialize)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+everyone.+I'm+Artem+Petrov.+I+specialize)](https://git.io/typing-svg)
