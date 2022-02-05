@@ -3,8 +3,6 @@
 <!--
 **Artifelse/Artifelse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hi everyone. I'm Artem Petrov. I specialize in data analysis and machine learning model development. At the moment I work as a Data scientist in a "Magnet"
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hi everyone. I'm Artem Petrov. I specialize in data analysis and machine learning model development. At the moment I work as a Data scientist in a "Magnet"
