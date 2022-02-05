@@ -25,3 +25,7 @@ Hi everyone. I'm Artem Petrov. I specialize in data analysis and machine learnin
 - IDE:  Jupyter, Pycharm, VScode;
 - Other tech:   GIT/BitBucket, Kedro;
 - Data base:  Teradata/PostgreSQL/MS SQL/DB2;
+
+
+<!---Пример кода-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
