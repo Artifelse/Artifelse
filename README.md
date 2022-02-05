@@ -26,4 +26,4 @@ Hi everyone. I'm Artem Petrov. I specialize in data analysis and machine learnin
 - Other tech:   GIT/BitBucket, Kedro;
 - Data base:  Teradata/PostgreSQL/MS SQL/DB2;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=100&duration=10000&width=2000&height=500&lines=Hi+everyone.+I'm+Artem+Petrov.+I+specialize+in+data+analysis+and+machine+learning+model+development.+At+the+moment+I+work+as+a+Data+scientist+in+a+%22Magnet%22)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=100&duration=10000&width=2000&height=500&lines=Hi+everyone.+I'm+Artem+Petrov.+I+specialize+in+data+analysis+and+machine+learning+model+development.+At+the+moment+I+work+as+a+Data+scientist+in+a+%22Magnet%22)](https://git.io/typing-svg)-->
