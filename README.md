@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 Hi everyone. I'm Artem Petrov. I specialize in data analysis and machine learning model development. At the moment I work as a Data scientist in a "Magnet"
 
-Teck Steck:
-- Java, Python
+## Teck Steck:
+- Main languages: Python
+- Additional langueges: Java/C#
 - Library: Numpy, Pandas, Scikit-learn/imblearn, SciPy/statsmodels, Xgboost/Catboost/Lightgbm, TensorFlow/PyTorch/Keras, Optuna, Pymorphy2, Matplotlib/Seaborn;
 - IDE: Jupyter/Pycharm/VScode;
 - GIT/BitBucket;
