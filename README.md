@@ -1,4 +1,4 @@
-### Hey, I'm Artem Petrov<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+### Hey,   I'm Artem Petrov<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <!--
 **Artifelse/Artifelse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=50&duration=10000&width=3000&height=100&lines=Hi+everyone.+I'm+Artem+Petrov.+I+specialize+in+data+analysis+and+machine+learning+model+development.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=50&duration=10000&width=3000&height=100&lines=Hi+everyone!+I'm+Artem+Petrov.+I+specialize+in+data+analysis+and+machine+learning+model+development.)](https://git.io/typing-svg)
 
 ## Teck Steck:
 - Main languages:   Python
