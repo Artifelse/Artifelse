@@ -21,7 +21,7 @@ Hi everyone. I'm Artem Petrov. I specialize in data analysis and machine learnin
 ## Teck Steck:
 - Main languages:   Python
 - Additional langueges:   Java, C#
-- ML libs::  Numpy, Pandas, Scikit-learn/imblearn, SciPy/statsmodels, Xgboost/Catboost/Lightgbm, TensorFlow/PyTorch/Keras, Optuna, Pymorphy2, Matplotlib/Seaborn;
-- IDE:  Jupyter/Pycharm/VScode;
+- ML libs:  Numpy, Pandas, Scikit-learn/imblearn, SciPy/statsmodels, Xgboost/Catboost/Lightgbm, TensorFlow/PyTorch/Keras, Optuna, Pymorphy2, Matplotlib/Seaborn;
+- IDE:  Jupyter, Pycharm, VScode;
 - Other tech:   GIT/BitBucket, Kedro;
 - Data base:  Teradata/PostgreSQL/MS SQL/DB2;
