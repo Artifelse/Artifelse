@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=50&duration=15000&width=3000&height=100&lines=Hi+everyone!+I'm+Artem+Petrov.+I+specialize+in+data+analysis+and+machine+learning+models+development...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=50&duration=15000&width=3000&height=100&lines=Hi+everyone!+I'm+Artem+Petrov.+I+specialize+in+data+analysis+and+machine+learning+model+development...)](https://git.io/typing-svg)
 
 ## Teck Steck:
 - Main languages:   Python
