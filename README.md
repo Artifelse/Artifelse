@@ -25,5 +25,3 @@ Here are some ideas to get you started:
 - IDE:  Jupyter, Pycharm, VScode;
 - Other tech:   GIT/BitBucket, Kedro;
 - Data base:  Teradata/PostgreSQL/MS SQL/DB2;
-
-<p color="red">I am red</p>
