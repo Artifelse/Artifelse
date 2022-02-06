@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - **ML libs**:  Numpy, Pandas, Scikit-learn/imblearn, SciPy/statsmodels, Xgboost/Catboost/Lightgbm, TensorFlow/PyTorch/Keras, Optuna, Pymorphy2, Matplotlib/Seaborn;
 - **IDE**:  Jupyter, Pycharm, VScode;
 - **Other tech**:   GIT/BitBucket, Kedro;
-- **Data base**:  Teradata/PostgreSQL/MS SQL/DB2;
+- **DataBase**:  Teradata, PostgreSQL, MS SQL, Oracle;
 
 
